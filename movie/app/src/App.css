@@ -40,3 +40,28 @@
 .read-the-docs {
   color: #888;
 }
+.app-div{
+  display: block;
+  padding: 20px;
+}
+.inputdiv{
+  margin:15px 10px; 
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.inputdiv label{
+  margin: 2px 10px;
+}
+.inputdiv input{
+  border-radius: 10px;
+  text-align: center;
+}
+.buttondiv{
+  margin:15px 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
